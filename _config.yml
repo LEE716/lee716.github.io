@@ -2,7 +2,7 @@
 
 title: LEE716
 locale: en_US
-description: LAxT
+description: Dawdling and Developing
 logo: site-logo.png
 url: https://LEE716.github.io/
 
@@ -37,7 +37,7 @@ comments: true
 # Site owner
 owner:
   name: Kay Lee
-  avatar: michael-rose-photo.jpg
+  avatar: mulgok.png
   email: mg2zz813@gmail.com
   disqus-shortname: kayyeonlee
   twitter: mmistakes
